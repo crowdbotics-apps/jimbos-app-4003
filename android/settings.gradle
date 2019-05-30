@@ -1,0 +1,3 @@
+rootProject.name = 'jimbos_app_4003'
+
+include ':app'
